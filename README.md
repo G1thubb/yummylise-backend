@@ -15,3 +15,5 @@ Dish name
 Ingredients
 
 Calorie content
+
+Display the results in the mobile app.
