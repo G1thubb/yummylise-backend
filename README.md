@@ -8,7 +8,7 @@ Take a photo of your meal using the phone camera.
 
 Upload the photo to the backend for recognition.
 
-Get a detailed JSON response with:
+Giving a detailed JSON response with:
 
 Dish name
 
